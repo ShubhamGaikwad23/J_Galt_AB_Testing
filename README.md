@@ -87,7 +87,9 @@ ab_test_marketing/
 
     Save to GitHub Repository
         1. git add ABTesting.py README.md
-        
+        2. git commit -m 'Added script and updated Readme file'
+        3. git push
+
 
 📈 Future Enhancements
     Collect real-world data using marketing platform APIs (e.g., Mailchimp).
